@@ -9,8 +9,16 @@ In this challenge, you'll use your knowledge of SparkSQL to determine key metric
 
 
 
-# Results
+# Key Metrics
+
+
+Below are some key metrics that were answered from the data.
 
 What is the average price for a four bedroom house sold per year, rounded to two decimal places?
 
-<img width="154" alt="image" src="https://github.com/jalainep/Home_Sales/assets/143963189/c0588def-b871-41da-826d-7e7a401473a4">
+What is the average price of a home for each year the home was built, that has three bedrooms and three bathrooms? 
+
+What is the average price of a home for each year the home was built, that has three bedrooms, three bathrooms, two floors, and is greater than or equal to 2,000 square feet? 
+
+What is the average price of a home per "view" rating having an average home price greater than or equal to $350,000? 
+
