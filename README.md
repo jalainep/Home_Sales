@@ -11,11 +11,8 @@ In this challenge, you'll use your knowledge of SparkSQL to determine key metric
 
 
 
-# Homes Sales Data
 
-
-
-
+<img width="451" alt="image" src="https://github.com/jalainep/Home_Sales/assets/143963189/ef7fda79-e811-4779-b91f-3c732a9c6e00">
 
 
 
