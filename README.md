@@ -16,6 +16,12 @@ In this challenge, you'll use your knowledge of SparkSQL to determine key metric
 
 
 
+
+
+
+
+
+
 # Key Metrics
 
 
